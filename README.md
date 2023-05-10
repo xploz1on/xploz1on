@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there,<br>I am a highly experienced System Administrator with a strong background in DevOps. I have extensive experience in managing and maintaining complex IT systems, as well as developing and deploying applications. I have a proven track record of success in automating processes, streamlining operations, and improving system performance. My technical skills include Linux/Unix administration, scripting languages (Python, Bash), cloud computing (AWS, Azure), containerization (Docker, Kubernetes), and CI/CD pipelines (Jenkins) and I have over 8 years as a technical support. I am passionate about staying up-to-date with the latest technologies and trends in the industry.
-
+Hi there,<br>System Administrator with a strong background in DevOps.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xploz1on) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielhpp) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xploz1on) 
