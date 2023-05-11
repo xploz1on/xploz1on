@@ -1,8 +1,12 @@
 
+<div align="center">
+  
 # 💫 About Me:
 
-##Hi there,<br>System Administrator with a strong background in DevOps.
+## Hi there,<br>System Administrator with a strong background in DevOps.
 
+
+</div>
 
 
 ## 🌐 Socials:
@@ -29,3 +33,4 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
