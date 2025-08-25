@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Hero Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=System+Administrator+%26+DevOps+Engineer;Building+Secure+Infrastructure+with+Automation;Currently+Working+on+🛡️+astro-server" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=System+Administrator+%26+DevOps+Engineer;+Building+Secure+Infrastructure+with+Automation;Currently+Working+on+🛡️+astro-server" alt="Typing Animation" />
 
 ---
 
@@ -104,7 +104,7 @@ I'm currently developing **[astro-server](https://github.com/xploz1on/astro-serv
 
 ### 🏆 **Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xploz1on&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xploz1on&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
 </p>
 
 ### 📚 **Top Languages**
@@ -157,7 +157,7 @@ I'm always interested in collaborating on **DevOps projects**, **infrastructure 
 <div align="center">
 
 ### 👀 **Profile Views**
-![Visitor Count](https://visitcount.itsvg.in/api?id=xploz1on&icon=0&color=0)
+![Visitor Count](https://komarev.com/ghpvc/?username=xploz1on&label=Profile%20Views&color=0e75b6&style=flat)
 
 ### ☕ **Support My Work**
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xploz1on)
