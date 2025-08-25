@@ -1,36 +1,175 @@
-
 <div align="center">
-  
-# 💫 About Me:
 
-## Hi there,<br>System Administrator with a strong background in DevOps.
-
-
-</div>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xploz1on) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielhpp) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xploz1on) 
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xploz1on&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xploz1on&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xploz1on&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xploz1on&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=xploz1on)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- Dynamic Hero Section -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=System+Administrator+%26+DevOps+Engineer;Building+Secure+Infrastructure+with+Automation;Currently+Working+on+🛡️+astro-server" alt="Typing Animation" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xploz1on&icon=7&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xploz1on) 
+## 🚀 **About Me**
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left">
+
+I'm a passionate **System Administrator** and **DevOps Engineer** with extensive experience in building and maintaining robust infrastructure solutions. My expertise spans across cloud platforms, automation, and security hardening.
+
+### 🔧 **What I Do:**
+- **Infrastructure Automation** - Streamline deployments and management
+- **Security Hardening** - Fortify systems against threats
+- **Cloud Architecture** - Design scalable solutions across platforms
+- **DevOps Practices** - Implement CI/CD pipelines and monitoring
+- **Linux System Administration** - Optimize performance and reliability
+
+### 🎯 **Current Focus:**
+I'm currently developing **[astro-server](https://github.com/xploz1on/astro-server)** - a comprehensive solution for transforming Linux servers into secure, monitored fortresses.
+
 </div>
+
+---
+
+## 🛡️ **Featured Project: Astro-Server**
+
+<div align="center">
+
+### 🏰 **Transform Linux servers into impenetrable fortresses**
+
+[![GitHub stars](https://img.shields.io/github/stars/xploz1on/astro-server?style=for-the-badge&logo=github&color=gold)](https://github.com/xploz1on/astro-server)
+[![GitHub forks](https://img.shields.io/github/forks/xploz1on/astro-server?style=for-the-badge&logo=github&color=silver)](https://github.com/xploz1on/astro-server)
+[![Production Ready](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge&logo=linux)](https://github.com/xploz1on/astro-server)
+
+</div>
+
+<div align="left">
+
+**Astro-Server** is a comprehensive security hardening and monitoring solution that transforms standard Linux servers into fortified, production-ready systems. Built entirely with Bash scripts for maximum compatibility and performance.
+
+### ✨ **Key Features:**
+- 🔒 **Automated Security Hardening** - Comprehensive security configurations
+- 📊 **Real-time Monitoring** - Continuous system health tracking
+- 🚀 **Multi-server Deployment** - Scale across multiple servers seamlessly
+- 🛠️ **Infrastructure as Code** - Reproducible, version-controlled deployments
+
+### 🏗️ **Tech Stack:**
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+[🔗 **View Repository**](https://github.com/xploz1on/astro-server) | [📖 **Documentation**](https://github.com/xploz1on/astro-server#readme)
+
+</div>
+
+---
+
+## 💻 **Tech Stack**
+
+### 🖥️ **Core Technologies**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### ☁️ **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+
+### 🛠️ **DevOps & Automation**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🌐 **Development & Deployment**
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+### 📱 **Mobile & Other**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+### 📈 **Statistics**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xploz1on&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&layout=compact" alt="GitHub Stats" />
+</p>
+
+### 🔥 **Streak Counter**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xploz1on&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🏆 **Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xploz1on&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+### 📚 **Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xploz1on&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielhpp)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xploz1on)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xploz1on)
+
+</div>
+
+---
+
+## 🐦 **Latest Activity**
+
+<div align="center">
+  <img src="https://gtce.itsvg.in/api?username=xploz1on" alt="Latest Tweet" />
+</div>
+
+---
+
+## 📞 **Let's Work Together**
+
+<div align="center">
+
+I'm always interested in collaborating on **DevOps projects**, **infrastructure automation**, and **security solutions**. Whether you need help with:
+
+- 🏗️ **Infrastructure Design & Implementation**
+- 🔒 **Security Hardening & Compliance**
+- 🚀 **CI/CD Pipeline Development**
+- ☁️ **Cloud Migration & Optimization**
+- 📊 **Monitoring & Observability**
+
+**Feel free to reach out!** I'm open to discussing new opportunities and interesting projects.
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 **Profile Views**
+![Visitor Count](https://visitcount.itsvg.in/api?id=xploz1on&icon=0&color=0)
+
+### ☕ **Support My Work**
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xploz1on)
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <p><strong>Made with ❤️ by xploz1on</strong></p>
+  <p>🔒 Securing infrastructure, one server at a time</p>
+</div>
+
+<!-- Proudly created with modern markdown and passion for DevOps -->
