@@ -94,22 +94,22 @@ I'm currently developing **[astro-server](https://github.com/xploz1on/astro-serv
 
 ### 📈 **Statistics**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xploz1on&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xploz1on&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ### 🔥 **Streak Counter**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xploz1on&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xploz1on&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 </p>
 
 ### 🏆 **Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xploz1on&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xploz1on&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6" alt="GitHub Trophies" />
 </p>
 
 ### 📚 **Top Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xploz1on&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xploz1on&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 </div>
